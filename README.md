@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/ni_ckd" target="blank"><img src="https://img.shields.io/twitter/follow/ni_ckd?logo=twitter&style=for-the-badge" alt="ni_ckd" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **PHP,Laravel,MySQL**
+- 💬 Ask me about **Javascript,React,Laravel**
 
 - 📫 How to reach me **nicholasngaruiya387@gmail.com**
 

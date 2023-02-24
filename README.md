@@ -1,6 +1,6 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Nicholas Ngaruiya</h1>
-<h3 align="center">A passionate Backend developer from Kenya</h3>
+<h3 align="center">A passionate Web and Mobile App Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 

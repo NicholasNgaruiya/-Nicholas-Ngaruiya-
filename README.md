@@ -27,5 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicholasngaruiya&show_icons=true&locale=en" alt="nicholasngaruiya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicholasngaruiya&" alt="nicholasngaruiya" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicholasngaruiya&" alt="nicholasngaruiya" /></p> -->
 

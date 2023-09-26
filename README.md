@@ -13,6 +13,7 @@
 - 📫 How to reach me **nicholasngaruiya387@gmail.com**
 
 - ⚡ Fun fact **"Everything is a Widget"**
+- <a href="file:///home/nick/Downloads/NicholasNgaruiyaCV.pdf" target="blank">Downloas Cv</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
